@@ -11,36 +11,36 @@
     Pedro Henrique Rocha de Freitas.
 
     Links:
-    -
-    -
-    -
-    -
+    - https://github.com/
+    - https://github.com/melmeldazonasul
+    - https://github.com/NicolasMp3
+    - https://github.com/PedroRocha2006
 )
 # Proposta 01
 
-## Título_da_proposta
+## Mural_Virtual
 
-### Descrição
+### É um mural/fórum/wikipedia onde exibira imagens com descrição, videos e biografias 
 
 ### Problema a ser solucionado
 
-### Público alvo
+### Nossa sala
 
-### Funcionalidades
+### Servir como mural de lembranças da turma para ficar pós formatura
 
 ---
 
 # Proposta 02
 
-## Título_da_proposta
+## NekoAnime
 
-### Descrição
+### O NekoAnime é uma plataforma de "encontro de anime" que se destaca no universo dos animes, mangás e dramas asiáticos. Com uma vasta biblioteca de conteúdos, o site oferece uma experiência única para os fãs desse tipo de entretenimento. A grande coleção de animes, que inclui títulos populares e novos lançamentos, torna o NekoAnime um dos destinos preferidos para quem busca acompanhar suas séries favoritas.
 
-### Problema a ser solucionado
+### Com a falta de tempo das pessoas e a grande dificuldade em encontrar animes que agradem, o NekoAnime soluciona o problema de forma eficiente.
 
-### Público alvo
+### Grupo jovem à adulto
 
-### Funcionalidades
+### Com base nos dados descritos pelas pessoas, o NekoAnime encontra o anime ideal para o usuário.
 
 ---
 
