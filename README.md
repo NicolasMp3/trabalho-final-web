@@ -11,7 +11,7 @@
     Pedro Henrique Rocha de Freitas.
 
     Links:
-    - https://github.com/
+    - https://github.com/Summerblads
     - https://github.com/melmeldazonasul
     - https://github.com/NicolasMp3
     - https://github.com/PedroRocha2006
@@ -46,12 +46,12 @@
 
 # Proposta 03
 
-## Título_da_proposta
+## Top esportes 
 
-### Descrição
+### Uma loja de materiais esportivos onde você poderá comprar seus produtos 
 
-### Problema a ser solucionado
+### Facilitar as vendas dos produtos por meio da internet
 
-### Público alvo
+### Clientes atuais da loja e também futuros clientes
 
-### Funcionalidades
+### Estoque, Diferentes formas de pagamento, retirar na loja ou envio até a casa do cliente, variedade de produtos
